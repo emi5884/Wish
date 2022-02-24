@@ -2,16 +2,20 @@
 
 <br>
 
-## 💬 概要
-### 「4001の願い」という本をモデルにしたアプリ<br>
-※ 「4001の願い」について ( amazonより引用 )
->「知りたくないことは知らないままでいる」「ファーストキスをした人ともう一度キスする」など、本書にリストアップされた願いは、すべて「生きているうちに、私は…をしたい」という文章で成り立つようになっている。原著『the wish list』に掲載されている約6000の“願い”を、日本語版を出すにあたり減らし、女性宇宙飛行士・向井千秋とその夫向井万起男が新に考えた“願い”を200追加した。
+## 🔧 ツールと言語
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 
 <br>
 
+## 💬 概要
+### 「4001の願い」という本をモデルにした「願い」を共有するアプリ<br>
+※ 「4001の願い」について ( amazonより引用 )
+>「知りたくないことは知らないままでいる」「ファーストキスをした人ともう一度キスする」など、本書にリストアップされた願いは、すべて「生きているうちに、私は…をしたい」という文章で成り立つようになっている。原著『the wish list』に掲載されている約6000の“願い”を、日本語版を出すにあたり減らし、女性宇宙飛行士・向井千秋とその夫向井万起男が新に考えた“願い”を200追加した。
+<br>
 
 ## 📃 使い方
-### 1. 願いリストを作成する
+### 1. 願いリストを作成する<br>
+※ 願いリストに書いた内容は、他ユーザーのフィードに流れます。<br><br>
 ![add](https://user-images.githubusercontent.com/98724087/151975924-b7a6d1f1-f037-49b2-85a8-0e0889bfeef4.gif)
 <br><br>
 ### 2. 願いが叶ったらチェックを入れる
@@ -25,11 +29,6 @@
 
 ## 🗺 全体の構成
 ![スクリーンショット 2022-02-02 12 45 53](https://user-images.githubusercontent.com/98724087/152090172-20690ffb-65ce-47ad-a5e4-05d8a586c281.png)
-
-<br>
-
-## 🔧 ツールと言語
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 
 <br>
 
